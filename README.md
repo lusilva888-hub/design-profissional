@@ -31,5 +31,5 @@ It is part of my academic activities and my portfolio on GitHub.
 ---
 
 ## 👩‍💻 Author
-**Lucy Santos**  
+**Lucy Silva**  
 [LinkedIn](https://www.linkedin.com/in/lucineia-santos-916863244/) | [GitHub](https://github.com/lusilva888-hub)
